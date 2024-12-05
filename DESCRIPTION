@@ -1,0 +1,11 @@
+Package: Vanessar
+Title: Transfer .shp to .gpkg
+Version: 0.0.0.9000
+Authors@R: 
+    person("Vanessa", "Streifeneder", "vanessa.streifeneder1@plus.ac.at", role = c("aut"),)
+Description: It transfers a number of given .shp file into a .gpkg file and additional transforming their coordinate system to ESG 436
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
