@@ -1,3 +1,4 @@
 ^my-first-r-package\.Rproj$
 ^\.Rproj\.user$
 ^\.devcontainer$
+^LICENSE\.md$
